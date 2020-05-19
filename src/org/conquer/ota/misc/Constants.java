@@ -39,8 +39,8 @@ public final class Constants {
     static final String PROP_DEVICE = "org.conquer.device";
     static final String PROP_BUILD_VERSION = "org.conquer.version.prop";
     static final String PROP_VERSION_CODE = "org.conquer.ota.version_code";
-    static final String OTA_URL = "https://raw.githubusercontent.com/Evolution-X-Devices/official_devices/master/builds/%s.json";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/Evolution-X-Devices/official_devices/master/changelogs/%s/%s.txt";
+    static final String OTA_URL = "https://raw.githubusercontent.com/Pulkit077/OTA/master/rom_name/rosy.json";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://raw.githubusercontent.com/Pulkit077/OTA/master/rom_name/changelog.txt";
     public static final String DOWNLOAD_PATH = "/data/system_updates/";
     static final String EXPORT_PATH = "Os_Updates/";
     public static  String fileName = "";
